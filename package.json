@@ -1,0 +1,27 @@
+{
+  "name": "VUTTR",
+  "version": "1.0.0",
+  "description": "Very Useful Tools to Remember",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/walefe/VUTTR.git"
+  },
+  "keywords": [],
+  "author": "Walefe P de Jesus <walefedev@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/walefe/VUTTR/issues"
+  },
+  "homepage": "https://github.com/walefe/VUTTR#readme",
+  "dependencies": {
+    "express": "^4.17.0"
+  },
+  "devDependencies": {
+    "nodemon": "^1.19.0"
+  }
+}
