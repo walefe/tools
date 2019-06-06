@@ -20,6 +20,10 @@
   "homepage": "https://github.com/walefe/VUTTR#readme",
   "dependencies": {
     "express": "^4.17.0",
+<<<<<<< HEAD
+    "mongoose": "^5.5.13"
+=======
+>>>>>>> master
   },
   "devDependencies": {
     "nodemon": "^1.19.0"
